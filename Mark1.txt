@@ -1,1 +1,2 @@
 English=80
+maths =69
